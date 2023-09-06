@@ -14,7 +14,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Girard | Administrator | | |||||||||||
 | Michael | Starkskyy | |:heavy_check_mark:|||||||||||
 | John | JohnZ | |:heavy_check_mark:|||||||||||
-| Victor | ChoulalaDaCato | |:heavy_check_mark:|||||||||||
+| Victor | ChoulalaDaCat | |:heavy_check_mark:|||||||||||
 | Cameron | CybertBite | ||||||||||||
 | Kyle | Pogimokyle | |:heavy_check_mark:|||||||||||
 | JP | Jp_l | |:heavy_check_mark:|||||||||||
