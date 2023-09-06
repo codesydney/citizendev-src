@@ -10,7 +10,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 
 # Last updated 7 Sep 2023
 | CD | Discord Alias | GitHub Profile | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--| 
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | Girard | Administrator |||||||||||||
 | Michael | Starkskyy |||||||||||||
 | John | JohnZ |||||||||||||
