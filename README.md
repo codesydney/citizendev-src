@@ -8,15 +8,23 @@ All citizen developers are business technologists.  However, all business techno
 
 Source: https://www.gartner.com/en/information-technology/glossary/citizen-developer
 
-# Last updated 7 Sep 2023
+### Last updated 7 Sep 2023
 | CD | Discord Alias | GitHub Profile | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| Girard | Administrator |||||||||||||
-| Michael | Starkskyy |||||||||||||
-| John | JohnZ |||||||||||||
-| Victor | ChoulalaDaCato |||||||||||||
-| Cameron | CybertBite |||||||||||||
-| Kyle | Pogimokyle |||||||||||||
-| JP | Jp_l |||||||||||||
-| Brodie | brodiehunt |||||||||||||
-| Kevin | Kevin |||||||||||||
+| Girard | Administrator | | |||||||||||
+| Michael | Starkskyy | |:heavy_check_mark:|||||||||||
+| John | JohnZ | |:heavy_check_mark:|||||||||||
+| Victor | ChoulalaDaCato | |:heavy_check_mark:|||||||||||
+| Cameron | CybertBite | ||||||||||||
+| Kyle | Pogimokyle | |:heavy_check_mark:|||||||||||
+| JP | Jp_l | |:heavy_check_mark:|||||||||||
+| Brodie | brodiehunt | |:heavy_check_mark:|||||||||||
+| Kevin | Kevin | ||||||||||||
+
+### Coaching Team
+[Engramar Bollas](https://www.linkedin.com/in/engramarbollas/) <br/>
+[Tony Johnson](https://www.linkedin.com/in/tony-johnson-53995413/) <br/>
+[Sunny Junejo](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
+
+
+
