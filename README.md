@@ -8,7 +8,7 @@ All citizen developers are business technologists.  However, all business techno
 
 Source: https://www.gartner.com/en/information-technology/glossary/citizen-developer
 
-### Last updated 7 Sep 2023
+### Last updated 8 Sep 2023
 | CD | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Girard](https://github.com/GirardT) | Administrator ||||||||||||
