@@ -9,17 +9,17 @@ All citizen developers are business technologists.  However, all business techno
 Source: https://www.gartner.com/en/information-technology/glossary/citizen-developer
 
 ### Last updated 7 Sep 2023
-| CD | Discord Alias | GitHub Profile | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| Girard | Administrator | | |||||||||||
-| Michael | Starkskyy | |:heavy_check_mark:|||||||||||
-| John | JohnZ | |:heavy_check_mark:|||||||||||
-| Victor | ChoulalaDaCat | |:heavy_check_mark:|||||||||||
-| Cameron | CybertBite | ||||||||||||
-| Kyle | Pogimokyle | |:heavy_check_mark:|||||||||||
-| JP | Jp_l | |:heavy_check_mark:|||||||||||
-| Brodie | brodiehunt | |:heavy_check_mark:|||||||||||
-| Kevin | Kevin | ||||||||||||
+| CD | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| [Girard](https://github.com/GirardT) | Administrator ||||||||||||
+| Michael | Starkskyy | |:heavy_check_mark:||||||||||
+| John | JohnZ | |:heavy_check_mark:||||||||||
+| Victor | ChoulalaDaCat | |:heavy_check_mark:||||||||||
+| Cameron | CybertBite | |||||||||||
+| Kyle | Pogimokyle | |:heavy_check_mark:||||||||||
+| JP | Jp_l | |:heavy_check_mark:||||||||||
+| Brodie | brodiehunt | |:heavy_check_mark:||||||||||
+| Kevin | Kevin | |||||||||||
 
 ### Coaching Team
 [Engramar Bollas](https://www.linkedin.com/in/engramarbollas/) <br/>
