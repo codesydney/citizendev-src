@@ -22,9 +22,13 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Kevin | Kevin | |||||||||||
 
 ### Coaching Team
-[Engramar Bollas](https://www.linkedin.com/in/engramarbollas/) <br/>
-[Tony Johnson](https://www.linkedin.com/in/tony-johnson-53995413/) <br/>
-[Sunny Junejo](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
+Engramar Bollas <br/>
+[GitHub](https://github.com/engramar) <br/>
+[LinkedIn](https://www.linkedin.com/in/engramarbollas/) <br/>
 
+Tony Johnson <br/>
+[Linkedin](https://www.linkedin.com/in/tony-johnson-53995413/) <br/>
 
-
+Sunny Junejo <br/>
+[GitHub](https://github.com/sjunejo) <br/>
+[LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
