@@ -8,19 +8,6 @@ All citizen developers are business technologists.  However, all business techno
 
 Source: https://www.gartner.com/en/information-technology/glossary/citizen-developer
 
-### Last updated 8 Sep 2023
-| CD | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| [Girard](https://github.com/GirardT) | Administrator ||||||||||||
-| Michael | Starkskyy | |:heavy_check_mark:||||||||||
-| [John](https://github.com/JohnZGBG) | JohnZ | |:heavy_check_mark:||||||||||
-| Victor | ChoulalaDaCat | |:heavy_check_mark:||||||||||
-| Cameron | CybertBite | |||||||||||
-| Kyle | Pogimokyle | |:heavy_check_mark:||||||||||
-| JP | Jp_l | |:heavy_check_mark:||||||||||
-| Brodie | brodiehunt | |:heavy_check_mark:||||||||||
-| Kevin | Kevin | |||||||||||
-
 ### Coaching Team
 #### Engramar Bollas <br/>
 [GitHub](https://github.com/engramar) <br/>
@@ -33,3 +20,16 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 #### Sunny Junejo <br/>
 [GitHub](https://github.com/sjunejo) <br/>
 [LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
+
+### Last updated 8 Sep 2023
+| CD | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| [Girard](https://github.com/GirardT) | Administrator ||||||||||||
+| Michael | Starkskyy | |:heavy_check_mark:||||||||||
+| [John](https://github.com/JohnZGBG) | JohnZ | |:heavy_check_mark:||||||||||
+| Victor | ChoulalaDaCat | |:heavy_check_mark:||||||||||
+| Cameron | CybertBite | |||||||||||
+| Kyle | Pogimokyle | |:heavy_check_mark:||||||||||
+| JP | Jp_l | |:heavy_check_mark:||||||||||
+| Brodie | brodiehunt | |:heavy_check_mark:||||||||||
+| Kevin | Kevin | |||||||||||
