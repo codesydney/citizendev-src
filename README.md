@@ -13,7 +13,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Girard](https://github.com/GirardT) | Administrator ||||||||||||
 | Michael | Starkskyy | |:heavy_check_mark:||||||||||
-| John | JohnZ | |:heavy_check_mark:||||||||||
+| [John](https://github.com/JohnZGBG) | JohnZ | |:heavy_check_mark:||||||||||
 | Victor | ChoulalaDaCat | |:heavy_check_mark:||||||||||
 | Cameron | CybertBite | |||||||||||
 | Kyle | Pogimokyle | |:heavy_check_mark:||||||||||
