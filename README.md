@@ -21,7 +21,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 [GitHub](https://github.com/sjunejo) <br/>
 [LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
 
-### Last updated 8 Sep 2023
+### Last updated 10 Sep 2023
 | CitizenDev | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:||||||||||
@@ -35,4 +35,4 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Kyle | Pogimokyle |:heavy_check_mark:|||||||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:||||||||||
 | Brodie | brodiehunt |:heavy_check_mark:|||||||||||
-| Kevin | Kevin ||||||||||||
+| [Kevin](https://github.com/ZizhangOu) | Kevin ||||||||||||
