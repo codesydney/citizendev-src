@@ -22,14 +22,17 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 [LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
 
 ### Last updated 8 Sep 2023
-| CD | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
+| CitizenDev | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| [Tony](https://github.com/tnyjhnsn) | Tony |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:||||||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||||||||
-| Michael | Starkskyy | |:heavy_check_mark:||||||||||
-| [John](https://github.com/JohnZGBG) | JohnZ | |:heavy_check_mark:||||||||||
-| Victor | ChoulalaDaCat | |:heavy_check_mark:||||||||||
-| Cameron | CybertBite | |||||||||||
-| Kyle | Pogimokyle | |:heavy_check_mark:||||||||||
-| JP | Jp_l | |:heavy_check_mark:||||||||||
-| Brodie | brodiehunt | |:heavy_check_mark:||||||||||
-| Kevin | Kevin | |||||||||||
+| Michael | Starkskyy |:heavy_check_mark:|||||||||||
+| [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|||||||||||
+| [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| Cameron | CybertBite ||||||||||||
+| Kyle | Pogimokyle |:heavy_check_mark:|||||||||||
+| [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| Brodie | brodiehunt |:heavy_check_mark:|||||||||||
+| Kevin | Kevin ||||||||||||
