@@ -1,2 +1,2 @@
-print ("Tony was here")
+print("Tony was here")
 

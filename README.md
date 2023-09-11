@@ -21,15 +21,18 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 [GitHub](https://github.com/sjunejo) <br/>
 [LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
 
-### Last updated 8 Sep 2023
-| CD | Discord Alias | Why Program (3d) | VS Code, Python, GitHub (4d) | Variables, Expressions and Statements | Conditional Execution | Functions | Loops and Iterations | Strings | Files | Lists | Dictionaries | Tuples | 
+### Last updated 12 Sep 2023
+| CitizenDev | Discord Alias | CH2 - Why Program (3d) 6/9 | VS Code, Python, GitHub (4d) 10/9 | Variables, Expressions and Statements (3d) 13/9 | Conditional Execution (3d) 16/9 | Functions (3d) 19/9 | Loops and Iterations (3d) 22/9 | Strings (3d) 25/9| Files (3d) 28/9 | Lists (3d) 1/10 | Dictionaries (3d) 4/10 | Tuples (3d) 7/10 | 
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||||
+| [Tony](https://github.com/tnyjhnsn) | Tony |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:||||||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||||||||
-| Michael | Starkskyy | |:heavy_check_mark:||||||||||
-| [John](https://github.com/JohnZGBG) | JohnZ | |:heavy_check_mark:||||||||||
-| Victor | ChoulalaDaCat | |:heavy_check_mark:||||||||||
-| Cameron | CybertBite | |||||||||||
-| Kyle | Pogimokyle | |:heavy_check_mark:||||||||||
-| JP | Jp_l | |:heavy_check_mark:||||||||||
-| Brodie | brodiehunt | |:heavy_check_mark:||||||||||
-| Kevin | Kevin | |||||||||||
+| Michael | Starkskyy |:heavy_check_mark:|||||||||||
+| [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|||||||||||
+| [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| Cameron | CybertBite ||||||||||||
+| Kyle | Pogimokyle |:heavy_check_mark:|||||||||||
+| [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| Brodie | brodiehunt |:heavy_check_mark:|||||||||||
+| [Kevin](https://github.com/ZizhangOu) | Kevin ||||||||||||
