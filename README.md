@@ -26,7 +26,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||||
 | [Tony](https://github.com/tnyjhnsn) | Tony |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||||
-| [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:||||||||||
+| [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||||||||
 | Michael | Starkskyy |:heavy_check_mark:|||||||||||
 | [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|||||||||||
