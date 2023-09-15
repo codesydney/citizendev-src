@@ -29,7 +29,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||||||||
 | Michael | Starkskyy |:heavy_check_mark:|||||||||||
-| [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||||
+| [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |:heavy_check_mark:|:heavy_check_mark:||||||||||
 | Cameron | CybertBite ||||||||||||
 | Kyle | Pogimokyle |:heavy_check_mark:|||||||||||
