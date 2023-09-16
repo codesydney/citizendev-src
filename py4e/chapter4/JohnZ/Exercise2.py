@@ -1,8 +1,5 @@
 input_number = input("Please enter a number between 0.0 and 1.0: ")
 
-
-
-
 try: 
     number = float(input_number)
 
