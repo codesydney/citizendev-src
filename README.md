@@ -32,7 +32,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |:heavy_check_mark:|:heavy_check_mark:||||||||||
 | Cameron | CybertBite ||||||||||||
-| Kyle | Pogimokyle |:heavy_check_mark:|||||||||||
+| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |:heavy_check_mark:|||||||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:||||||||||
 | Brodie | brodiehunt |:heavy_check_mark:|||||||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin ||||||||||||
