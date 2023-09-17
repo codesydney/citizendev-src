@@ -16,5 +16,5 @@ try:
     else:
         print("F")
 
-except:
+except ValueError:
     print("Did not enter a valid number")
