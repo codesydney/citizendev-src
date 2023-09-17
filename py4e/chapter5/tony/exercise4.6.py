@@ -5,7 +5,16 @@ def compute_pay(hrs, rate):
     return pay
 
 
-hrs = float(input("Enter Hours: "))
-rate = float(input("Enter Rate: "))
+try:
+    hrs = float(input("Enter Hours: "))
+    rate = float(input("Enter Rate: "))
 
-print("Pay:", compute_pay(hrs, rate))
+    if hrs <= 0.0 or rate <= 0.0:
+        raise ValueError
+    else:
+        print("Pay:", compute_pay(hrs, rate))
+        exit(0)
+
+except ValueError:
+    print("Hours and Rate must be numeric values greater than 0")
+    exit(1)
