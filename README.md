@@ -34,5 +34,4 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Cameron | CybertBite ||||||||||||
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||||
-| Brodie | brodiehunt |:heavy_check_mark:|||||||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin ||||||||||||
