@@ -1,6 +1,6 @@
-score = float(input("Enter your score must between 0.0 and 1.0: "))
 
 try:
+    score = float(input("Enter your score must between 0.0 and 1.0: "))
     if score >= 1.0 or score < 0.0:
         print ('Enter your range')
     elif score >= 0.9:
