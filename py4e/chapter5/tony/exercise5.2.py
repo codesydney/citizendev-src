@@ -1,5 +1,5 @@
-largest = None
-smallest = None
+largest = float("-inf")
+smallest = float("inf")
 
 while True:
     num = input("Enter a number: ")
@@ -12,8 +12,8 @@ while True:
         print("Invalid input")
         continue
 
-    largest = max(num, largest) if largest is not None else num
-    smallest = min(num, smallest) if smallest is not None else num
+    largest = max(num, largest)
+    smallest = min(num, smallest)
 
 print("Maximum", largest)
 print("Minimum", smallest)
