@@ -18,6 +18,7 @@ while True:
                 continue
             count += 1
             tot += spam_confidence(line)
+
         print("Average spam confidence:", tot / count)
         exit(0)
 
