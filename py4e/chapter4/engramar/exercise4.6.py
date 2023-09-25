@@ -5,7 +5,7 @@ def computepay(h, r):
         basepay = 40 * r
         grosspay = (excesshrs * excessrate) + basepay
     else:
-        grosspay = float(hrs) * float(rate)
+        grosspay = float(h) * float(r)
 
     return grosspay
 
