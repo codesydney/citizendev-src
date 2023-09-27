@@ -13,7 +13,6 @@ while True:
              smallest = num 
 
 if largest is not None: 
-    print('maximum' , largest ) 
+    print('largest ' , largest ) 
 if smallest is not None: 
-    print('Minimum' , smallest) 
-
+    print('Smallest ' , smallest) 
