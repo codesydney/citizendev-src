@@ -1,23 +1,19 @@
-largest  = float('-inf')
-smallest = float('inf')
+largest = None 
+smallest = None 
+while True: 
+    num = input('Enter a number: ') 
+    if num == 'done':
+         break 
+    else: 
+        num = int(num) 
+        print(num) 
+        if largest == None or num > largest: 
+           largest = num 
+        elif smallest == None or num < smallest: 
+             smallest = num 
 
-while True:
-    try:
-        number = input('Enter a number: ')
-        if number == 'done':
-            break
-        number  = int(number)
-        #largest = int(largest)
-        print(number)
-    except:
-        print('invalid input')
-        continue
-
-    if number > largest:
-        largest = number
-    if number < smallest:
-        smallest = number
-print('Largest' ,  largest)
-print('smallest' ,  smallest)
-
+if largest is not None: 
+    print('maximum' , largest ) 
+if smallest is not None: 
+    print('Minimum' , smallest) 
 
