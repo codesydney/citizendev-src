@@ -12,7 +12,7 @@ for line in fh:
         continue
 
     #increase running count
-    count = count + 1
+    count += 1
 
     #finding float value
     strlength = len(str_of_int)
@@ -20,7 +20,7 @@ for line in fh:
     s_conf = float (line[spos + strlength:])
 
     ##running sum of float values
-    total_s_conf = total_s_conf + s_conf
+    total_s_conf += s_conf
 
 avg_s_conf = total_s_conf/count
 print("Average spam confidence:", avg_s_conf)
