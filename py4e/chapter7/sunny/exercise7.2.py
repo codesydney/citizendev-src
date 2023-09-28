@@ -2,7 +2,7 @@
 fname = input("Enter file name: ")
 try:
     fh = open(fname)
-except:
+except FileNotFoundError:
     print("Invalid file name, please check your input and try again.")
     exit(0)
 
