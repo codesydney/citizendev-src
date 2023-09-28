@@ -8,16 +8,15 @@ CHECK = "X-DSPAM-Confidence:"
 while True:
     try:
         fname = input("Enter file name: ")
-        fh = open(fname)
+        with open(fname) as fh:
+            count = 0
+            tot = 0.0
 
-        count = 0
-        tot = 0.0
-
-        for line in fh:
-            if not line.startswith(CHECK):
-                continue
-            count += 1
-            tot += spam_confidence(line)
+            for line in fh:
+                if not line.startswith(CHECK):
+                    continue
+                count += 1
+                tot += spam_confidence(line)
 
         print("Average spam confidence:", tot / count)
         exit(0)
