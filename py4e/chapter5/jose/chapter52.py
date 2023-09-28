@@ -1,16 +1,20 @@
 largest = None 
 smallest = None 
 while True: 
-    num = input('Enter a number: ') 
-    if num == 'done':
+   try:
+     num = input('Enter a number: ') 
+     if num == 'done':
          break 
-    else: 
+     else: 
         num = int(num) 
         print(num) 
         if largest == None or num > largest: 
            largest = num 
         elif smallest == None or num < smallest: 
-             smallest = num 
+             smallest = num
+   except:
+    print('invalid input')
+ 
 
 if largest is not None: 
     print('largest ' , largest ) 
