@@ -4,18 +4,13 @@ if len(fn) < 1:
 fh = open(fn)
 
 
-def process_lines(fh):
+def process_file(fh):
     counts = {}
     for line in fh:
         if line.startswith("From "):
             email = line.split()[1]
             counts[email] = counts.get(email, 0) + 1
-    return counts
+    return [[k, v] for k, v in counts.items() if v == max(counts.values())]
 
 
-def process_dict(d):
-    return [[k, v] for k, v in d.items() if v == max(d.values())]
-
-
-r = process_dict(process_lines(fh))
-print(*r[0])
+print(*process_file(fh)[0])
