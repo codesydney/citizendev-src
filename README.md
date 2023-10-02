@@ -29,8 +29,8 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 | [Michael](https://github.com/starkskyy) | Starkskyy |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||
-| [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||
+| [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||||||||
 | Cameron | CybertBite ||||||||||||
