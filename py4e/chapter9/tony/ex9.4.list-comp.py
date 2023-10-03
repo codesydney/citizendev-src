@@ -3,14 +3,12 @@ if len(fn) < 1:
     fn = "mbox-short.txt"
 fh = open(fn)
 
+counts = {}
 
-def process_file(fh):
-    counts = {}
-    for line in fh:
-        if line.startswith("From "):
-            email = line.split()[1]
-            counts[email] = counts.get(email, 0) + 1
-    return [[k, v] for k, v in counts.items() if v == max(counts.values())]
+for line in fh:
+    if line.startswith("From "):
+        email = line.split()[1]
+        counts[email] = counts.get(email, 0) + 1
 
-
-print(*process_file(fh)[0])
+r = [[k, v] for k, v in counts.items() if v == max(counts.values())]
+print(*r[0])
