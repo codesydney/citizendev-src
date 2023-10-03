@@ -7,10 +7,9 @@ fh = open(fn)
 def process_lines(fh):
     counts = {}
     for line in fh:
-        if not line.startswith("From "):
-            continue
-        email = line.split()[1]
-        counts[email] = counts.get(email, 0) + 1
+        if line.startswith("From "):
+            email = line.split()[1]
+            counts[email] = counts.get(email, 0) + 1
     return counts
 
 
