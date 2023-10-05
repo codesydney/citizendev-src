@@ -21,8 +21,8 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 [GitHub](https://github.com/sjunejo) <br/>
 [LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
 
-### Last updated 5 Oct 2023
-| CitizenDev | Discord Alias | VS Code, Python, GitHub (4d) 10/9 | CH1 Why Program (3d) 6/9 | CH2 Variables, Expressions and Statements (3d) 13/9 | CH3 Conditional Execution (3d) 16/9 | CH4 Functions (3d) 19/9 | CH5 Loops and Iterations (3d) 22/9 | CH6 Strings (3d) 25/9| CH7 Files (3d) 28/9 | CH8 Lists (3d) 1/10 | CH9 Dictionaries (3d) 4/10 | CH10 Tuples (3d) 7/10 | 
+### Last updated 6 Oct 2023
+| CitizenDev | Discord Alias | VS Code, Python, GitHub (1d) 05/11 | CH1 Why Program (2d) 6/11 | CH2 Variables, Expressions and Statements (2d) 8/11 | CH3 Conditional Execution (2d) 10/11 | CH4 Functions (2d) 12/11 | CH5 Loops and Iterations (2d) 14/11 | CH6 Strings (2d) 16/11| CH7 Files (2d) 18/11 | CH8 Lists (2d) 20/11 | CH9 Dictionaries (2d) 22/11 | CH10 Tuples (2d) 24/11 | 
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Tony](https://github.com/tnyjhnsn) | Tony |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
