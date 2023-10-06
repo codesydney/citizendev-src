@@ -3,9 +3,8 @@ lst = list()
 
 for line in fh:
     for word in line.split():
-        if word in lst:
-            continue
-        lst.append(word)
+        if word not in lst:
+            lst.append(word)
 
 fh.close()
 lst.sort()

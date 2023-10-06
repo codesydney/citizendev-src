@@ -13,10 +13,9 @@ while True:
             tot = 0.0
 
             for line in fh:
-                if not line.startswith(CHECK):
-                    continue
-                count += 1
-                tot += spam_confidence(line)
+                if line.startswith(CHECK):
+                    count += 1
+                    tot += spam_confidence(line)
 
         print("Average spam confidence:", tot / count)
         exit(0)
