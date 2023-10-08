@@ -59,6 +59,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 ## PY4E Advance
 | CitizenDev | Discord Alias |  CH11 Regular Expressions | CH12 Network Programming | CH13 Using Web Services | CH14 Object-Oriented Programming | CH15 Databases |  CH16 Data Visualization | 
 |:--|:--|:--|:--|:--|:--|:--|:--|
-| [Engramar](https://github.com/engramar) | Engramar | | | | | | 
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | |
+| [Engramar](https://github.com/engramar) | Engramar | | | | | | 
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | 
+| [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | 
