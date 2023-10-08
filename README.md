@@ -47,7 +47,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Tony](https://github.com/tnyjhnsn) | Tony |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+| [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | [Michael](https://github.com/starkskyy) | Starkskyy |:heavy_check_mark:|:heavy_check_mark:||||
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |:heavy_check_mark:|||||
 | [John](https://github.com/JohnZGBG) | JohnZ |||||
