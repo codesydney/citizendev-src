@@ -29,14 +29,14 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 ## PY4E (Chapters 1-5)
 | CitizenDev | Discord Alias | VS Code, Python, GitHub (1d) 05/11 | CH1 Why Program (2d) 6/11 | CH2 Variables, Expressions and Statements (2d) 8/11 | CH3 Conditional Execution (2d) 10/11 | CH4 Functions (2d) 12/11 | CH5 Loops and Iterations (2d) 14/11 | 
 |:--|:--|:--|:--|:--|:--|:--|:--|
-| [Tony](https://github.com/tnyjhnsn) | Tony |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [Michael](https://github.com/starkskyy) | Starkskyy |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [John](https://github.com/JohnZGBG) | JohnZ |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-| [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+| [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️|✔️|
+| [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️|✔️|
+| [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+| [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+| [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+| [John](https://github.com/JohnZGBG) | JohnZ |✔️|✔️|✔️|✔️|✔️|✔️||
+| [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |✔️|✔️|✔️|✔️|||
 | [Girard](https://github.com/GirardT) | Administrator |||||||
 | Cameron | CybertBite |||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||||
@@ -44,12 +44,12 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 ## PY4E (Chapters 6-10)
 | CitizenDev | Discord Alias | CH6 Strings (2d) 16/11| CH7 Files (2d) 18/11 | CH8 Lists (2d) 20/11 | CH9 Dictionaries (2d) 22/11 | CH10 Tuples (2d) 24/11 | 
 |:--|:--|:--|:--|:--|:--|:--|
-| [Tony](https://github.com/tnyjhnsn) | Tony |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [Engramar](https://github.com/engramar) | Engramar |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [Sunny](https://github.com/sjunejo) | Sunny |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [JP](https://github.com/josepedrolorenzini) | Jp_l |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| [Michael](https://github.com/starkskyy) | Starkskyy |:heavy_check_mark:|:heavy_check_mark:||||
-| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |:heavy_check_mark:|||||
+| [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️|
+| [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️|
+| [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️|
+| [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️|
+| [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️||||
+| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|||||
 | [John](https://github.com/JohnZGBG) | JohnZ |||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |||||
 | [Girard](https://github.com/GirardT) | Administrator |||||
