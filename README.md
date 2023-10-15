@@ -63,3 +63,12 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Engramar](https://github.com/engramar) | Engramar | | | | | | 
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | 
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | 
+
+## Beginner Flask 
+[Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
+| CitizenDev | Discord Alias |  1. Intro to Flask  | 2. Hello App | 3. Endpoints | 4. Templates | 5. Guest Book Templates | 6. Process Foem | 7. Database | 8. Wrap Up |
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
+| [Engramar](https://github.com/engramar) | Engramar | | | | | | | |
+| [Sunny](https://github.com/sjunejo) | Sunny | | | | | | | |
+| [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | | | 
