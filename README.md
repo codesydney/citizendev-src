@@ -57,7 +57,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||
 
 ## PY4E Advance
-| CitizenDev | Discord Alias |  CH11 Regular Expressions | CH12 Network Programming | CH13 Using Web Services | CH14 Object-Oriented Programming | CH15 Databases |  CH16 Data Visualization | 
+| CitizenDev | Discord Alias |  CH11 Regular Expressions (3d) | CH12 Network Programming (3d) | CH13 Using Web Services (3d) | CH14 Object-Oriented Programming (3d) | CH15 Databases (3d) |  CH16 Data Visualization (3d) | 
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️| | | | |
 | [Engramar](https://github.com/engramar) | Engramar | | | | | | 
@@ -66,7 +66,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 
 ## Beginner Flask 
 [Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
-| CitizenDev | Discord Alias |  CH1 Intro to Flask  | CH2 Hello App | CH3 Endpoints | CH4 Templates | CH5 Guest Book Templates | CH6 Process Foem | CH7 Database | CH8 Wrap Up |
+| CitizenDev | Discord Alias |  CH1 Intro to Flask (2d) | CH2 Hello App (2d) | CH3 Endpoints (2d) | CH4 Templates (2d) | CH5 Guest Book Templates (2d) | CH6 Process Foem (2d) | CH7 Database (2d) | CH8 Wrap Up (2d) |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
 | [Engramar](https://github.com/engramar) | Engramar | | | | | | | |
