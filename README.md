@@ -69,7 +69,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 
 ## Beginner Flask 
 [Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
-| CitizenDev | Discord Alias |  CH1 Intro to Flask (2d) | CH2 Hello App (2d) | CH3 Endpoints (2d) | CH4 Templates (2d) | CH5 Guest Book Templates (2d) | CH6 Process Foem (2d) | CH7 Database (2d) | CH8 Wrap Up (2d) |
+| CitizenDev | Discord Alias |  CH1 Intro to Flask (2d) | CH2 Hello App (2d) | CH3 Endpoints (2d) | CH4 Templates (2d) | CH5 Guest Book Templates (2d) | CH6 Process Form (2d) | CH7 Database (2d) | CH8 Wrap Up (2d) |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
 | [Engramar](https://github.com/engramar) | Engramar | | | | | | | |
