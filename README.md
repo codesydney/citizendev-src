@@ -58,7 +58,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Cameron | CybertBite |||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||
 
-## PY4E Advance
+## PY4E Advanced
 [PY4E](https://www.py4e.com/)
 | CitizenDev | Discord Alias |  CH11 Regular Expressions (3d) | CH12 Network Programming (3d) | CH13 Using Web Services (3d) | CH14 Object-Oriented Programming (3d) | CH15 Databases (3d) |  CH16 Data Visualization (3d) | 
 |:--|:--|:--|:--|:--|:--|:--|:--|
