@@ -1,5 +1,6 @@
 # CitizenDev
 
+---
 Citizen Developer
 
 A citizen developer is an employee who creates application capabilities for consumption by themselves or others, using tools that are not actively forbidden by IT or business units. A citizen developer is a persona, not a title or targeted role. They report to a business unit or function other than IT.
@@ -8,9 +9,11 @@ All citizen developers are business technologists.  However, all business techno
 
 Source: https://www.gartner.com/en/information-technology/glossary/citizen-developer
 
-### CitizenDev App Marketplace
-[CitizenDev App Marketplace](https://www.citizendev.au/) <bt/>
+---
+### CitizenDev Blocks
+[CitizenDev Blocks](https://www.citizendev.au/) <bt/>
 
+---
 ### Coaching Team
 #### Engramar Bollas <br/>
 [GitHub](https://github.com/engramar) <br/>
@@ -24,6 +27,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 [GitHub](https://github.com/sjunejo) <br/>
 [LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
 
+---
 ### Last updated 8 Oct 2023
 
 ## PY4E (Chapters 1-5)
@@ -61,6 +65,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 ### Skills checkpoint
 Try to contribute some open data to https://github.com/codesydney/addressy 
 
+---
 ## PY4E Advanced
 [PY4E](https://www.py4e.com/)
 | CitizenDev | Discord Alias |  CH11 Regular Expressions (3d) | CH12 Network Programming (3d) | CH13 Using Web Services (3d) | CH14 Object-Oriented Programming (3d) | CH15 Databases (3d) |  CH16 Data Visualization (3d) | 
@@ -70,6 +75,7 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | 
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | 
 
+---
 ## Beginner Flask 
 [Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
 | CitizenDev | Discord Alias |  CH1 Intro to Flask (2d) | CH2 Hello App (2d) | CH3 Endpoints (2d) | CH4 Templates (2d) | CH5 Guest Book Templates (2d) | CH6 Process Form (2d) | CH7 Database (2d) | CH8 Wrap Up (2d) |
