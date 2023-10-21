@@ -63,7 +63,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | CitizenDev | Discord Alias |  CH11 Regular Expressions (3d) | CH12 Network Programming (3d) | CH13 Using Web Services (3d) | CH14 Object-Oriented Programming (3d) | CH15 Databases (3d) |  CH16 Data Visualization (3d) | 
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️|✔️|
-| [Engramar](https://github.com/engramar) | Engramar | | | | | | 
+| [Engramar](https://github.com/engramar) | Engramar |✔️| | | | | 
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | 
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | 
 
