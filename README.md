@@ -58,6 +58,9 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Cameron | CybertBite |||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||
 
+### Skills checkpoint
+Try to contribute some open data to https://github.com/codesydney/addressy 
+
 ## PY4E Advanced
 [PY4E](https://www.py4e.com/)
 | CitizenDev | Discord Alias |  CH11 Regular Expressions (3d) | CH12 Network Programming (3d) | CH13 Using Web Services (3d) | CH14 Object-Oriented Programming (3d) | CH15 Databases (3d) |  CH16 Data Visualization (3d) | 
@@ -75,3 +78,6 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Engramar](https://github.com/engramar) | Engramar | | | | | | | |
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | | |
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | | | 
+
+### Skills checkpoint
+Try to contribute a new block to https://www.citizendev.au/
