@@ -55,7 +55,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️|
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️|
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️||||
-| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|||||
+| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️||||
 | [John](https://github.com/JohnZGBG) | JohnZ |||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |||||
 | [Girard](https://github.com/GirardT) | Administrator |||||
