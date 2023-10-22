@@ -81,7 +81,7 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 | CitizenDev | Discord Alias |  CH1 Intro to Flask (2d) | CH2 Hello App (2d) | CH3 Endpoints (2d) | CH4 Templates (2d) | CH5 Guest Book Templates (2d) | CH6 Process Form (2d) | CH7 Database (2d) | CH8 Wrap Up (2d) |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
-| [Engramar](https://github.com/engramar) | Engramar | | | | | | | |
+| [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️| | |
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | | |
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | | | 
 
