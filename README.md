@@ -42,7 +42,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [John](https://github.com/JohnZGBG) | JohnZ |✔️|✔️|✔️|✔️|✔️|✔️||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |✔️|✔️|✔️|✔️|||
-| [Girard](https://github.com/GirardT) | Administrator |||||||
+| [Girard](https://github.com/GirardT) | Administrator |✔️||||||
 | Cameron | CybertBite |||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||||
 
