@@ -54,7 +54,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
-| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️✔️|||||
+| [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️||||
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|||||
 | [John](https://github.com/JohnZGBG) | JohnZ ||||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat ||||||
