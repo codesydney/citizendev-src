@@ -37,6 +37,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️|✔️|
 | [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️|✔️|
 | [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+| [Daniel](https://github.com/dangoodie) | squid |||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
@@ -53,6 +54,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
+| [Daniel](https://github.com/dangoodie) | squid |||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️||||
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|||||
@@ -73,6 +75,7 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 | [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️|✔️|
 | [Engramar](https://github.com/engramar) | Engramar |✔️| | | | | 
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | 
+| [Daniel](https://github.com/dangoodie) | squid |||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | 
 
 ---
@@ -83,6 +86,7 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 | [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️| | |
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | | |
+| [Daniel](https://github.com/dangoodie) | squid |||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | | | 
 
 ### Skills checkpoint
