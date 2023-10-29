@@ -49,11 +49,11 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 ## PY4E (Chapters 6-10)
 [PY4E](https://www.py4e.com/)
 | CitizenDev | Discord Alias | CH6 Strings (2d) 16/11| CH7 Files (2d) 18/11 | CH8 Lists (2d) 20/11 | CH9 Dictionaries (2d) 22/11 | CH10 Tuples (2d) 24/11 | CitizenDev | 
-|:--|:--|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|:--|:--|:--|:-|
 | [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
-| [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️| Sep 2023 |\
+| [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|||||
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|||||
 | [John](https://github.com/JohnZGBG) | JohnZ ||||||
