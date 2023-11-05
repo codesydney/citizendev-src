@@ -57,8 +57,12 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [John](https://github.com/JohnZGBG) | JohnZ |✔️|✔️|✔️|✔️|✔️|✔️||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |✔️|✔️|✔️|✔️|||
 | [Girard](https://github.com/GirardT) | Administrator |✔️||||||
-| Cameron | CybertBite |||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||||
+| [Hossein](https://github.com/Hossein-Roshandel)  | Hossein |||||||
+| Cameron | CybertBite |||||||
+| Alex | 684230 |||||||
+| Eduardo | eduvergara |||||||
+| Zeus | ze us |||||||
 
 ## PY4E (Chapters 6-10)
 [PY4E](https://www.py4e.com/)
@@ -74,8 +78,11 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [John](https://github.com/JohnZGBG) | JohnZ ||||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat ||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||
-| Cameron | CybertBite ||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin ||||||
+| Cameron | CybertBite |||||||
+| Alex | 684230 |||||||
+| Eduardo | eduvergara |||||||
+| Zeus | ze us |||||||
 
 ### Skills checkpoint
 Try to contribute some open data to https://github.com/codesydney/addressy 
