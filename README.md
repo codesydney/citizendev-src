@@ -33,6 +33,12 @@ CitizenDev Journey
 [GitHub](https://github.com/sjunejo) <br/>
 [LinkedIn](https://www.linkedin.com/in/sadruddinjunejo/) <br/>
 
+#### Daniel Gooden <br/>
+[GitHub](https://github.com/dangoodie) <br/>
+[LinkedIn](https://www.linkedin.com/in/daniel-gooden/) <br/>
+
+
+
 ---
 ### Last updated 8 Oct 2023
 
