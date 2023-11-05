@@ -22,6 +22,7 @@ CitizenDev Journey
 ---
 ### Coaching Team
 #### Engramar Bollas <br/>
+[Book a 30-min chat with me](https://koalendar.com/e/meet-with-code-sydney) <br/>
 [GitHub](https://github.com/engramar) <br/>
 [LinkedIn](https://www.linkedin.com/in/engramarbollas/) <br/>
 
