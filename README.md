@@ -59,10 +59,10 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Girard](https://github.com/GirardT) | Administrator |✔️||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||||
 | [Hossein](https://github.com/Hossein-Roshandel)  | Hossein |||||||
-| Cameron | CybertBite |||||||
 | Alex | 684230 |||||||
 | Eduardo | eduvergara |||||||
 | Zeus | ze us |||||||
+| Cameron | CybertBite |||||||
 
 ## PY4E (Chapters 6-10)
 [PY4E](https://www.py4e.com/)
@@ -79,10 +79,10 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat ||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin ||||||
-| Cameron | CybertBite |||||||
 | Alex | 684230 |||||||
 | Eduardo | eduvergara |||||||
 | Zeus | ze us |||||||
+| Cameron | CybertBite |||||||
 
 ### Skills checkpoint
 Try to contribute some open data to https://github.com/codesydney/addressy 
