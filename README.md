@@ -57,10 +57,10 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [John](https://github.com/JohnZGBG) | JohnZ |✔️|✔️|✔️|✔️|✔️|✔️||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |✔️|✔️|✔️|✔️|||
 | [Girard](https://github.com/GirardT) | Administrator |✔️||||||
+| [Eduardo](https://github.com/eduvergara) | eduvergara |✔️|✔️|||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||||
 | [Hossein](https://github.com/Hossein-Roshandel)  | Hossein |||||||
 | Alex | 684230 |||||||
-| Eduardo | eduvergara |||||||
 | Zeus | ze us |||||||
 | Cameron | CybertBite |||||||
 
