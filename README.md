@@ -50,7 +50,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Tony](https://github.com/tnyjhnsn) | Tony |✔️|✔️|✔️|✔️|✔️|✔️|
 | [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️|✔️|
 | [Sunny](https://github.com/sjunejo) | Sunny |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
-| [Daniel](https://github.com/dangoodie) | squid |||||||
+| [Daniel](https://github.com/dangoodie) | squid |✔️|✔️|✔️||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
