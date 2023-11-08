@@ -79,8 +79,8 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat ||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin ||||||
+| [Eduardo](https://github.com/eduvergara) | eduvergara |||||||
 | Alex | 684230 |||||||
-| Eduardo | eduvergara |||||||
 | Zeus | ze us |||||||
 | Cameron | CybertBite |||||||
 
