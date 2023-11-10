@@ -22,7 +22,6 @@ try:
     else:
         print("F")
 
-
 # handles invalid inputs
 except: 
     print("Input is not a number")
