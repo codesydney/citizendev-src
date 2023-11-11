@@ -80,7 +80,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Girard](https://github.com/GirardT) | Administrator ||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin ||||||
 | [Eduardo](https://github.com/eduvergara) | eduvergara |||||||
-| [Hossein]((https://github.com/Hossein-Roshandel) | Hossein |||||||
+| [Hossein](https://github.com/Hossein-Roshandel) | Hossein |||||||
 | Alex | 684230 |||||||
 | Zeus | ze us |||||||
 | Cameron | CybertBite |||||||
