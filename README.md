@@ -104,7 +104,7 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 [Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
 | CitizenDev | Discord Alias |  CH1 Intro to Flask (2d) | CH2 Hello App (2d) | CH3 Endpoints (2d) | CH4 Templates (2d) | CH5 Guest Book Templates (2d) | CH6 Process Form (2d) | CH7 Database (2d) | CH8 Wrap Up (2d) |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️| | |
+| [Engramar](https://github.com/engramar) | Engramar ||||||||
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | | |
 | [Daniel](https://github.com/dangoodie) | squid |||||||
