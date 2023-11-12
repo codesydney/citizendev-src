@@ -41,7 +41,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 
 
 ---
-### Last updated 11 Nov 2023
+### Last updated 13 Nov 2023
 
 ## PY4E (Chapters 1-5)
 [PY4E](https://www.py4e.com/)
