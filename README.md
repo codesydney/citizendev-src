@@ -41,7 +41,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 
 
 ---
-### Last updated 9 Nov 2023
+### Last updated 13 Nov 2023
 
 ## PY4E (Chapters 1-5)
 [PY4E](https://www.py4e.com/)
@@ -55,11 +55,11 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [John](https://github.com/JohnZGBG) | JohnZ |✔️|✔️|✔️|✔️|✔️|✔️||
+| [Hossein](https://github.com/Hossein-Roshandel)  | Hossein |✔️|✔️|✔️|✔️|✔️|✔️|
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |✔️|✔️|✔️|✔️|||
-| [Eduardo](https://github.com/eduvergara) | eduvergara |✔️|✔️|||||
+| [Eduardo](https://github.com/eduvergara) | eduvergara |✔️|✔️|✔️|✔️|||
 | [Girard](https://github.com/GirardT) | Administrator |✔️||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||||
-| [Hossein](https://github.com/Hossein-Roshandel)  | Hossein |||||||
 | Alex | 684230 |||||||
 | Zeus | ze us |||||||
 | Cameron | CybertBite |||||||
@@ -76,6 +76,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️||||
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|||||
 | [John](https://github.com/JohnZGBG) | JohnZ ||||||
+| [Hossein](https://github.com/Hossein-Roshandel) | Hossein |||||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat ||||||
 | [Girard](https://github.com/GirardT) | Administrator ||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin ||||||
@@ -103,7 +104,7 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 [Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
 | CitizenDev | Discord Alias |  CH1 Intro to Flask (2d) | CH2 Hello App (2d) | CH3 Endpoints (2d) | CH4 Templates (2d) | CH5 Guest Book Templates (2d) | CH6 Process Form (2d) | CH7 Database (2d) | CH8 Wrap Up (2d) |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| [Engramar](https://github.com/engramar) | Engramar |✔️|✔️|✔️|✔️|✔️| | |
+| [Engramar](https://github.com/engramar) | Engramar ||||||||
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | | |
 | [Daniel](https://github.com/dangoodie) | squid |||||||
