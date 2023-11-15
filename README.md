@@ -41,7 +41,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 
 
 ---
-### Last updated 13 Nov 2023
+### Last updated 15 Nov 2023
 
 ## PY4E (Chapters 1-5)
 [PY4E](https://www.py4e.com/)
@@ -56,8 +56,8 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 | [John](https://github.com/JohnZGBG) | JohnZ |✔️|✔️|✔️|✔️|✔️|✔️||
 | [Hossein](https://github.com/Hossein-Roshandel)  | Hossein |✔️|✔️|✔️|✔️|✔️|✔️|
+| [Eduardo](https://github.com/eduvergara) | eduvergara |✔️|✔️|✔️|✔️|✔️||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat |✔️|✔️|✔️|✔️|||
-| [Eduardo](https://github.com/eduvergara) | eduvergara |✔️|✔️|✔️|✔️|||
 | [Girard](https://github.com/GirardT) | Administrator |✔️||||||
 | [Kevin](https://github.com/ZizhangOu) | Kevin |||||||
 | Alex | 684230 |||||||
