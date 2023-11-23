@@ -75,7 +75,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | [JP](https://github.com/josepedrolorenzini) | Jp_l |✔️|✔️|✔️|✔️|✔️| Sep 2023 |
 | [Kyle](https://github.com/mkasborromeo) | Pogimokyle |✔️|✔️|✔️||||
 | [Michael](https://github.com/starkskyy) | Starkskyy |✔️|✔️|||||
-| [Eduardo](https://github.com/eduvergara) | eduvergara |✔️||||||
+| [Eduardo](https://github.com/eduvergara) | eduvergara |✔️|✔️|||||
 | [John](https://github.com/JohnZGBG) | JohnZ ||||||
 | [Hossein](https://github.com/Hossein-Roshandel) | Hossein |||||||
 | [Victor](https://github.com/CholulaTheCat) | ChoulalaDaCat ||||||
