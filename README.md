@@ -86,7 +86,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Cameron | CybertBite |||||||
 
 ### Skills checkpoint
-Try to contribute some open data to [CitizenDev BLOCKS Initiative](https://www.citizendev.au/2023/10/contents.html)
+Try to contribute any data or python module to [CitizenDev BLOCKS Initiative](https://www.citizendev.au/2023/10/contents.html)
 
 ---
 ## PY4E Advanced
