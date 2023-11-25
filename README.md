@@ -102,6 +102,7 @@ Try to contribute any data or python module to [CitizenDev BLOCKS Initiative](ht
 
 ### Skills checkpoint
 Try to contribute any data or python module to [CitizenDev BLOCKS Initiative](https://www.citizendev.au/2023/10/contents.html)
+
 ---
 ## Beginner Flask 
 [Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
