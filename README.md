@@ -100,6 +100,8 @@ Try to contribute any data or python module to [CitizenDev BLOCKS Initiative](ht
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | 
 | [Eduardo](https://github.com/eduvergara) | eduvergara | | | | | | 
 
+### Skills checkpoint
+Try to contribute any data or python module to [CitizenDev BLOCKS Initiative](https://www.citizendev.au/2023/10/contents.html)
 ---
 ## Beginner Flask 
 [Intro to Flask Series](https://youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV&feature=shared)
@@ -113,4 +115,4 @@ Try to contribute any data or python module to [CitizenDev BLOCKS Initiative](ht
 | [Eduardo](https://github.com/eduvergara) | eduvergara | | | | | | 
 
 ### Skills checkpoint
-Try to contribute a new block to https://www.citizendev.au/
+Try to contribute any data or python module to [CitizenDev BLOCKS Initiative](https://www.citizendev.au/2023/10/contents.html)
