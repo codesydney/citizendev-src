@@ -86,7 +86,7 @@ Source: https://www.gartner.com/en/information-technology/glossary/citizen-devel
 | Cameron | CybertBite |||||||
 
 ### Skills checkpoint
-Try to contribute some open data to https://github.com/codesydney/addressy 
+Try to contribute some open data to [CitizenDev BLOCKS Initiative](https://www.citizendev.au/2023/10/contents.html)
 
 ---
 ## PY4E Advanced
@@ -98,6 +98,7 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | 
 | [Daniel](https://github.com/dangoodie) | squid |||||||
 | [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | 
+| [Eduardo](https://github.com/eduvergara) | eduvergara | | | | | | 
 
 ---
 ## Beginner Flask 
@@ -108,7 +109,8 @@ Try to contribute some open data to https://github.com/codesydney/addressy
 | [Tony](https://github.com/tnyjhnsn) | Tony | | | | | | | | |
 | [Sunny](https://github.com/sjunejo) | Sunny | | | | | | | |
 | [Daniel](https://github.com/dangoodie) | squid |||||||
-| [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | | | 
+| [JP](https://github.com/josepedrolorenzini) | Jp_l | | | | | | | |
+| [Eduardo](https://github.com/eduvergara) | eduvergara | | | | | | 
 
 ### Skills checkpoint
 Try to contribute a new block to https://www.citizendev.au/
