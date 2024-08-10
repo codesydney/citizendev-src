@@ -12,8 +12,8 @@ A citizen developer is a non-technical user who creates or customizes applicatio
 1. **Sign up** on this page by clicking on the Register or Login button above or simply click [here](https://citizendev.code.sydney/py4e).
 2. **Jump in** and start the lessons on the [PY4E](https://www.py4e.com/lessons) site.
 3. **Important!** Share your progress and actively collaborate in [Discord](https://discord.com/invite/buDgydz7J9). We will wait for you there.
-4. Not required, but if you like to include your code in our common [GitHub](https://github.com/codesydney/citizendev-src) repo, please feel free to do so.
-5. Tell us something about yourself by filling in this [Form](https://forms.gle/AoVFiC35zyZNSx8e8).
+4. Tell us something about yourself by filling in this [Form](https://forms.gle/AoVFiC35zyZNSx8e8).
+5. Not required, but if you like to include your code in our common [GitHub](https://github.com/codesydney/citizendev-src) repo, please feel free to do so.
 
 ## Some Key Points About This Course
 
